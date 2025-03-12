@@ -1,4 +1,4 @@
-# Apollo Solutions Machine Learning Developer Test Caio Massote
+#Machine Learning Developer Test Caio Massote
 
 ## Overview
 This project is designed to analyze embeddings derived from images to classify genetic syndromes. The embeddings are outputs from a pre-trained classification model, and the goal is to improve the understanding of the data distribution and enhance classification accuracy.
@@ -14,8 +14,8 @@ apollo-solutions-ml-test
 ├── requirements.txt                     # Required Python packages
 ├── README.md                            # Documentation for the project
 └── report
-    ├── Apollo ML Practical Test Caio Massote Code Report.pdf  # PDF documentation of the created code
-    └── Apollo ML Practical Test Caio Massote Interpretation.pdf   # PDF answering interpretation questions
+    ├── ML Practical Test Caio Massote Code Report.pdf  # PDF documentation of the created code
+    └── ML Practical Test Caio Massote Interpretation.pdf   # PDF answering interpretation questions
 ```
 
 ## Install the required packages:
